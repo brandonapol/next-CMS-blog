@@ -17,7 +17,9 @@ function Header() {
                 </Link>
             </div>
 
-            <div></div>
+            <div>
+                here is something else
+            </div>
         </header>
     )
 }
